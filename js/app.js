@@ -37,27 +37,27 @@
         // List of shopping items
         var toBuyItems = [{
                 quantity: '3',
-                name: 'apples'
+                name: 'cookies'
             },
             {
-                quantity: '4',
-                name: 'bananas'
+                quantity: '7',
+                name: 'donuts'
             },
             {
-                quantity: '1 pound',
-                name: 'beef'
+                quantity: '1 kg',
+                name: 'chicken'
             },
             {
                 quantity: '1 bag',
-                name: 'oatmeal'
+                name: 'rice'
             },
             {
-                quantity: '1  bag',
-                name: 'olives'
+                quantity: '2 packets',
+                name: 'corn flakes'
             },
             {
                 quantity: '3 bottles',
-                name: 'milk'
+                name: 'coke'
             },
         ];
         var alreadyBoughtItems = [];
